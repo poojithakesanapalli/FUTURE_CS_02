@@ -1,0 +1,6 @@
+May 23 10:15:01 Failed login attempt from 192.168.1.10
+May 23 10:16:22 Successful login from 192.168.1.15
+May 23 10:17:40 Malware detected on host PC-01
+May 23 10:18:10 Multiple failed login attempts from 45.33.32.156
+May 23 10:19:05 Suspicious outbound connection detected
+May 23 10:20:11 Unauthorized admin access attempt
